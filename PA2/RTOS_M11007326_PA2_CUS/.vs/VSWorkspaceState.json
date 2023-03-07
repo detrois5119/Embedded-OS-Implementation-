@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Micrium",
+    "\\Micrium\\Software",
+    "\\Micrium\\Software\\uCOS-II",
+    "\\Micrium\\Software\\uCOS-II\\Ports",
+    "\\Micrium\\Software\\uCOS-II\\Ports\\Win32",
+    "\\Micrium\\Software\\uCOS-II\\Ports\\Win32\\Visual Studio",
+    "\\Microsoft",
+    "\\Microsoft\\Windows",
+    "\\Microsoft\\Windows\\Kernel",
+    "\\Microsoft\\Windows\\Kernel\\OS2",
+    "\\Microsoft\\Windows\\Kernel\\OS2\\VS"
+  ],
+  "SelectedNode": "\\Microsoft\\Windows\\Kernel\\OS2\\main.c",
+  "PreviewInSolutionExplorer": false
+}
