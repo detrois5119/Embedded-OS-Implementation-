@@ -1,0 +1,38 @@
+﻿  os_cpu_c.c
+  os_core.c
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Micrium\Software\uCOS-II\Source\os_core.c(1010,17): warning C4013: 'exit' 未定義; 假設 extern 傳回整數
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Micrium\Software\uCOS-II\Source\os_core.c(1888,25): warning C4018: '>=': signed/unsigned 不相符
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Micrium\Software\uCOS-II\Source\os_core.c(1911,48): warning C4473: 'fprintf' : 傳遞給格式字串的引數不足
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Micrium\Software\uCOS-II\Source\os_core.c(1911,48): message : 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Micrium\Software\uCOS-II\Source\os_core.c(1911,48): message : 缺少 variadic 引數 2 (其為格式字串 '%2d' 所需)
+  os_dbg_r.c
+  os_flag.c
+  os_mbox.c
+  os_mem.c
+  os_mutex.c
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Micrium\Software\uCOS-II\Source\os_mutex.c(193,1): warning C4029: 在函式宣告和函式定義中的型式參數清單不同
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Micrium\Software\uCOS-II\Source\os_mutex.c(537,40): warning C4047: '==': 'INT8U *' 與 'int' 間接取值的層級不同
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Micrium\Software\uCOS-II\Source\os_mutex.c(623,37): warning C4047: '==': 'INT8U *' 與 'int' 間接取值的層級不同
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Micrium\Software\uCOS-II\Source\os_mutex.c(788,33): warning C4047: '==': 'INT8U *' 與 'int' 間接取值的層級不同
+  os_q.c
+  os_sem.c
+  os_task.c
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Micrium\Software\uCOS-II\Source\os_task.c(365,1): warning C4029: 在函式宣告和函式定義中的型式參數清單不同
+  os_time.c
+  os_tmr.c
+  app_hooks.c
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Microsoft\Windows\Kernel\OS2\app_hooks.c(140,31): warning C4013: 'atoi' 未定義; 假設 extern 傳回整數
+  main.c
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Microsoft\Windows\Kernel\OS2\main.c(110,22): warning C4013: 'malloc' 未定義; 假設 extern 傳回整數
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Microsoft\Windows\Kernel\OS2\main.c(110,50): warning C4047: '=': 'OS_STK **' 與 'int' 間接取值的層級不同
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Microsoft\Windows\Kernel\OS2\main.c(115,59): warning C4047: '=': 'OS_STK *' 與 'int' 間接取值的層級不同
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Microsoft\Windows\Kernel\OS2\main.c(130,40): warning C4020: 'OSMutexCreate': 實質參數太多
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Microsoft\Windows\Kernel\OS2\main.c(131,40): warning C4020: 'OSMutexCreate': 實質參數太多
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Microsoft\Windows\Kernel\OS2\main.c(137,42): warning C4244: '函式': 將 'INT16U' 轉換為 'INT8U'，由於類型不同，可能導致資料遺失
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Microsoft\Windows\Kernel\OS2\main.c(149,29): warning C4020: 'OSTaskCreateExt': 實質參數太多
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Microsoft\Windows\Kernel\OS2\main.c(92,17): warning C4101: 'os_err': 未參考的區域變數
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Microsoft\Windows\Kernel\OS2\main.c(226,29): warning C4018: '>=': signed/unsigned 不相符
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Microsoft\Windows\Kernel\OS2\main.c(184,9): warning C4101: 'temp': 未參考的區域變數
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Microsoft\Windows\Kernel\OS2\main.c(272,18): warning C4018: '<=': signed/unsigned 不相符
+  正在產生程式碼...
+  OS2.vcxproj -> D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_CPP\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe

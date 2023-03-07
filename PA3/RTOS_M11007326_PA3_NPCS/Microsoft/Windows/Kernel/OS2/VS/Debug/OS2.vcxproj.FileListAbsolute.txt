@@ -1,0 +1,7 @@
+D:\M11007326\course\111-1\RTOS\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
+D:\M11007326\course\111-1\RTOS\PA1\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
+D:\SCHOOL\course\111\PA1\PA1\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
+D:\M11007326\course\111-1\RTOS\PA1\RTOS_M11007326_PA1\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
+D:\M11007326\course\111-1\RTOS\PA1\RTOS_M11007326_PA1 - 複製\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
+D:\M11007326\course\111-1\RTOS\PA3\RTOS_M11007326_PA3_NPCS\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe

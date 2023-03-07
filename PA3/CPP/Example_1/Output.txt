@@ -1,0 +1,30 @@
+ 6	 Completion	 task( 3)( 0)	 task( 1)( 0)		
+ 7	task1 get R1 						 12 to 11
+ 8	 Preemption	 task( 1)( 0)	 task( 2)( 0)		 
+ 9	task2 get R2 						 8 to 7
+11	task2 release R2 					 7 to 8
+13	 Completion	 task( 2)( 0)	 task( 1)( 0)		
+17	task1 release R1 					 11 to 12
+19	 Completion	 task( 1)( 0)	 task(63)		
+20	 Preemption	 task(63)	 task( 3)( 1)		 
+26	 Completion	 task( 3)( 1)	 task(63)		
+38	 Preemption	 task(63)	 task( 2)( 1)		 
+39	task2 get R2 						 8 to 7
+40	 Preemption	 task( 2)( 1)	 task( 3)( 2)		 
+46	 Completion	 task( 3)( 2)	 task( 2)( 1)		
+47	task2 release R2 					 7 to 8
+49	 Completion	 task( 2)( 1)	 task(63)		
+60	 Preemption	 task(63)	 task( 3)( 3)		 
+66	 Completion	 task( 3)( 3)	 task( 1)( 1)		
+67	task1 get R1 						 12 to 11
+68	 Preemption	 task( 1)( 1)	 task( 2)( 2)		 
+69	task2 get R2 						 8 to 7
+71	task2 release R2 					 7 to 8
+73	 Completion	 task( 2)( 2)	 task( 1)( 1)		
+77	task1 release R1 					 11 to 12
+79	 Completion	 task( 1)( 1)	 task(63)		
+80	 Preemption	 task(63)	 task( 3)( 4)		 
+86	 Completion	 task( 3)( 4)	 task(63)		
+98	 Preemption	 task(63)	 task( 2)( 3)		 
+99	task2 get R2 						 8 to 7
+100	 Preemption	 task( 2)( 3)	 task( 3)( 5)		 

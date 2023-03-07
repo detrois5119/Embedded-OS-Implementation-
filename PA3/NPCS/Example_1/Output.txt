@@ -1,0 +1,29 @@
+ 6	 Completion	 task( 3)( 0)	 task( 1)( 0)		
+ 7	task1 get R1
+12	task1 release R1
+12	 Preemption	 task( 1)( 0)	 task( 2)( 0)		 
+13	task2 get R2
+15	task2 release R2
+17	 Completion	 task( 2)( 0)	 task( 1)( 0)		
+19	 Completion	 task( 1)( 0)	 task(63)		
+20	 Preemption	 task(63)	 task( 3)( 1)		 
+26	 Completion	 task( 3)( 1)	 task(63)		
+38	 Preemption	 task(63)	 task( 2)( 1)		 
+39	task2 get R2
+41	task2 release R2
+41	 Preemption	 task( 2)( 1)	 task( 3)( 2)		 
+47	 Completion	 task( 3)( 2)	 task( 2)( 1)		
+49	 Completion	 task( 2)( 1)	 task(63)		
+60	 Preemption	 task(63)	 task( 3)( 3)		 
+66	 Completion	 task( 3)( 3)	 task( 1)( 1)		
+67	task1 get R1
+72	task1 release R1
+72	 Preemption	 task( 1)( 1)	 task( 2)( 2)		 
+73	task2 get R2
+75	task2 release R2
+77	 Completion	 task( 2)( 2)	 task( 1)( 1)		
+79	 Completion	 task( 1)( 1)	 task(63)		
+80	 Preemption	 task(63)	 task( 3)( 4)		 
+86	 Completion	 task( 3)( 4)	 task(63)		
+98	 Preemption	 task(63)	 task( 2)( 3)		 
+99	task2 get R2

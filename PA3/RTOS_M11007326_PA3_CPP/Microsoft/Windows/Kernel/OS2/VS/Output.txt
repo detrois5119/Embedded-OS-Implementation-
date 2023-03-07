@@ -1,0 +1,17 @@
+ 1	task 2 get R2 					  8 to  3
+ 5	task 2 get R1 					  3 to  1
+ 8	task 2 release R1 					  1 to  3
+ 9	task 2 release R2 					  3 to  8
+ 9     Preemption      task( 2)( 0)   task( 1)( 0)
+11	task 1 get R1 					  4 to  1
+13	task 1 get R2 					  1 to  1
+15	task 1 release R2 					  1 to  1
+16	task 1 release R1 					  1 to  4
+17     Completion      task( 1)( 0)   task( 2)( 0)
+19     Completion      task( 2)( 0)   task(63)
+22     Preemption      task(63)       task( 1)( 1)
+24	task 1 get R1 					  4 to  1
+26	task 1 get R2 					  1 to  1
+28	task 1 release R2 					  1 to  1
+29	task 1 release R1 					  1 to  4
+30     Completion      task( 1)( 1)   task(63)
